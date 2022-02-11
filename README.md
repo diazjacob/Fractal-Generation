@@ -5,7 +5,8 @@
 
 ## Here are some generated images:
 
-<img src="/pics/mandlebrot.png" width="100">
+<img src="/pics/mandlebrot.png" width="400">
+<img src="/pics/multibrot.png" width="400">
+<img src="/pics/JuliaSet_processed.png" width="400">
 
-![A classic mandlebrot](/pics/mandlebrot.png | width=300px)
-![A multibrot](/pics/multibrot.png | width=300px)
+
