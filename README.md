@@ -5,4 +5,5 @@
 
 ## Here are some generated images:
 
-![This is an image](/pics/mandlebrot.png)
+![A classic mandlebrot](/pics/mandlebrot.png)
+![A multibrot](/pics/multibrot.png)
