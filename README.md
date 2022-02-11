@@ -1,11 +1,12 @@
 # Fractal Generation
  A project created to explore fractals and how they're generated. 
  
- The core fractal that was explored was the classic [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set), as well as the [Burning Ship](https://en.wikipedia.org/wiki/Burning_Ship_fractal) fractal. Finally a modified fractal generation function is included to create associated [Julia sets](https://en.wikipedia.org/wiki/Julia_set).
+ The core fractal that was explored was the classic [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set), as well as the [Burning Ship](https://en.wikipedia.org/wiki/Burning_Ship_fractal) fractal. Finally a modified fractal generation function is included to create associated [Julia sets](https://en.wikipedia.org/wiki/Julia_set). These fractals are very interesting since they are very self similar and they have infinite detail, the only restriction is how long you want to wait for your computer to finish.
+ 
 
 ## Here are some generated images:
 
-A simple Mandelbrot fractal, one of the most common fractals based on diverging complex sequences.
+A simple Mandelbrot fractal, one of the most common fractals. It's created based in taking the pixel offset from a defined center, and squaring the corresponding complex value iterativley. Black regions represent convergent sequences, while lighter regions represent divergent sequences. We can also use the speed of the divergence itself to color the fractal in interesting ways.
 
 <img src="/pics/mandlebrot.png" width="400">
 
