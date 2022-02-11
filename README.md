@@ -1,7 +1,7 @@
 # Fractal Generation
  A project created to explore fractals and how they're generated. 
  
- The core fractal that was explored was the classic [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set), as well as the [Burning Ship](https://en.wikipedia.org/wiki/Burning_Ship_fractal) fractal. Finally a modified fractal generation function is included to create associated [Julia sets](https://en.wikipedia.org/wiki/Julia_set). These fractals are very interesting since they are very self similar and they have infinite detail, the only restriction is how long you want to wait for your computer to finish.
+ The core fractal that was explored was the classic [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set), as well as the [Burning Ship](https://en.wikipedia.org/wiki/Burning_Ship_fractal) fractal. Finally a modified fractal generation function is included to create associated [Julia sets](https://en.wikipedia.org/wiki/Julia_set). These fractals are very interesting since they are self similar (you can find copies of it within itself) and they have infinite detail (you can zoom infinitley), the only restriction is how long you want to wait for your computer to finish.
  
 
 ## Here are some generated images:
