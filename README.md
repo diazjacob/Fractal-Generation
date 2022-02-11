@@ -5,8 +5,13 @@
 
 ## Here are some generated images:
 
+A simple Mandelbrot fractal, one of the most common fractals based on diverging complex sequences.
 <img src="/pics/mandlebrot.png" width="400">
+
+The Multibrot fractal. The Mandelbrot fractal is actually a special case of the multibrot where the complex power equals 2. Modifying this power gives us some much more chaotic and weird results.
 <img src="/pics/multibrot.png" width="400">
+
+One of the Mandelbrot's associated Julia sets. Created by modifying how we use our pixel position as complex function inputs. This julia set is considered to be "unstable" because small changes to the input parameters can drastically change the finished image.
 <img src="/pics/JuliaSet_processed.png" width="400">
 
 
