@@ -5,5 +5,7 @@
 
 ## Here are some generated images:
 
+<img src="/pics/mandlebrot.png" width="100">
+
 ![A classic mandlebrot](/pics/mandlebrot.png | width=300px)
 ![A multibrot](/pics/multibrot.png | width=300px)
